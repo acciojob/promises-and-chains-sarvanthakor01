@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         // Validate input fields
         if (!name || isNaN(age)) {
-            alert("Please enter valid details.");
+            alert("Please enter valid details");
             return;
         }
 
